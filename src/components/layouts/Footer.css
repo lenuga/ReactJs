@@ -1,0 +1,16 @@
+.footer-middle {
+    background: black;
+    padding-top: 3rem;
+    color: white;
+}
+.footer-bottom {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+ul li a {
+    color: var(--mainGrey);
+}
+ul li a:hover{
+    color: blue;
+}
+
